@@ -1,0 +1,2 @@
+# critical-hits
+simple codes
